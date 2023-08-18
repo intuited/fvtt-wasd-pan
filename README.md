@@ -12,14 +12,13 @@ as an alternative to using CTRL-arrow keys or the mouse.
 
 ### Compatibility
 * Foundry: Tested on v. 11.307
-* D&D 5e:  Tested with system version 2.3.0
 
 ### Screenshots
 
 
 ### Functionality
-- 
-- 
+- Changes functionality of WASD keys to pan the view instead of moving the selected token(s).
+- Arrow keys will still initiate token movement.
 
 ### Installation
 
