@@ -24,6 +24,6 @@ as an alternative to using CTRL-arrow keys or the mouse.
 ### Installation
 
 Use the green Code dropdown in [github][gh] to choose your preferred download method.
-Place the code in your `foundrydata` directory at `Data/modules/encounter-rtv`.
+Place the code in your `foundrydata` directory at `Data/modules/wasd-pan`.
 
 [gh]: https://github.com/intuited/fvtt-wasd-pan
