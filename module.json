@@ -1,7 +1,7 @@
 {
   "id": "wasd-pan",
   "title": "WASD Pan",
-  "version": "0.1.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -23,5 +23,10 @@
       "name": "English",
       "path": "lang/en.json"
     }
-  ]
+  ],
+  "url": "https://github.com/intuited/fvtt-wasd-pan",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "readme": "https://github.com/intuited/fvtt-wasd-pan/blob/main/README.md",
+  "bugs": "https://github.com/intuited/fvtt-wasd-pan/issues"
 }
