@@ -1,17 +1,16 @@
 {
-  "name": "wasd-pan",
+  "id": "wasd-pan",
   "title": "WASD Pan",
-  "description":  "Enables view panning with WASD keys even with a token selected.",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "version": "0.0.1",
-  "author": "Ted Tibbetts",
+  "description":  "Enables view panning with WASD keys even with a token selected.",
   "authors": [
     {
       "name": "Ted Tibbetts",
-      "discord": "circulated.@6126",
+      "discord": "circulated",
       "url": "https://github.com/intuited"
     }
   ],
