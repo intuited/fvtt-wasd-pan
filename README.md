@@ -10,15 +10,16 @@
 WASD-Pan provides the ability to pan the view by using the WASD keys on the keyboard
 as an alternative to using CTRL-arrow keys or the mouse.
 
+Currently this functionality is locked in whenever the module is enabled;
+in the future an option will be added so each player can select this configuration if desired.
+
 ### Compatibility
 * Foundry: Tested on v. 11.307
-
-### Screenshots
-
 
 ### Functionality
 - Changes functionality of WASD keys to pan the view instead of moving the selected token(s).
 - Arrow keys will still initiate token movement.
+- FUTURE: add option so players can disable this functionality if desired.
 
 ### Installation
 
