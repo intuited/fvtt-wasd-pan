@@ -26,4 +26,5 @@ as an alternative to using CTRL-arrow keys or the mouse.
 Use the green Code dropdown in [github][gh] to choose your preferred download method.
 Place the code in your `foundrydata` directory at `Data/modules/wasd-pan`.
 
+[tt]: https://github.com/intuited
 [gh]: https://github.com/intuited/fvtt-wasd-pan
